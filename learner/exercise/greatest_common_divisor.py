@@ -1,7 +1,7 @@
 # Python Greatest Common Divisor
 # Code by Yaoze Ye
 # https://yaozeye.github.io
-# 09 April, 2020
+# 09 April 2020
 # under the MIT License https://github.com/yaozeye/python/raw/master/LICENSE
 num1 = int(input('The first number: '))
 num2 = int(input('The second number: '))
